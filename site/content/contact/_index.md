@@ -1,19 +1,15 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: img/richard-stallman-computer-software-github-gnu-canvas-print-richard-stallman.jpg
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: 282820 Denis Hopperlkajdljk Avenue, South San Francisco, California 94080
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "Sunday – Saturday: 9PM – 7PM We’re closed on Sundays"
 ---
-
 We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+questions so we can laugh at them... it gets boring here sometimes. We strive to constantly ignore your feedback. Only your money is valuable to us.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Call by to the addresses below for 1-on-1 session of "door slam in your face" with our friendly team or... drop us a line! Don’t be shy!!
