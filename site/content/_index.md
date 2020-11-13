@@ -18,18 +18,18 @@ intro:
   heading: What we offer
   text: We offer nothing.
 products:
-  - image: /img/illustrations-coffee-gear.svg
+  - image: img/1605264286236.jpeg
     text: We offer a small nothings, but a carefully curated selection of whimsicals
       and tools for opening sardine tins on which the ring-pull has broken
       off... but these tools don't work anyway... So just put down that sardine
       tin... give up, it's no use. You should have been more careful with the
       ring-pull in the first place.
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+  - image: img/1605098142525.jpeg
+    text: >-
+      Just what every master drummer needs. Earplugs for each member of your
+      household to wear so you can practice in peace. 
+
+      We sell green ones too!!! That are sourced directly from independent farmers and farm cooperatives. Check our post or contact us directly for current availability.
 values:
   heading: "#some stuff... what's all this read more non-snseon?"
   text: Coffee is an amazing part of human culture but it has a dark side too –
